@@ -2,7 +2,7 @@
 #include <SDL2/SDL.h>
 
 #ifdef __EMSCRIPTEN__
-#include "emscripten.h"
+#include <emscripten.h>
 #endif
 
 // init ... The init function, it calls the SDL init function.
