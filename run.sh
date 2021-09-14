@@ -1,4 +1,5 @@
-EMSDK_HOME=/home/sajith/wasm/emsdk # Change here
+# Change here
+EMSDK_HOME=/home/sajith/wasm/emsdk
 
 source ${EMSDK_HOME}/emsdk_env.sh
 
