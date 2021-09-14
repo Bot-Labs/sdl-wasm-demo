@@ -1,6 +1,7 @@
 .idea
 .PVS-Studio
 cmake-build-debug
+cmake-build-emake
 build
 # Prerequisites
 *.d
